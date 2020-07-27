@@ -1,0 +1,2 @@
+# JSD
+Jensen-Shannon Divergence
