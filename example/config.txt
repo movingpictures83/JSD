@@ -1,0 +1,2 @@
+Prefix plugins/JSD/example
+Plugin JSD inputfile parameters.txt outputfile JSD.csv
